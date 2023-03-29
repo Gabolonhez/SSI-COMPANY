@@ -34,3 +34,6 @@ Etapas:
 ```
 Planejamento > Code > Construção > Teste > Lançamento > Implantação > Operação > Monitoração 
 ```
+
+> Coloboradores: 
+Gabriel Bolonhez, Gustavo Fragata e Lucas da Silveira
