@@ -28,3 +28,9 @@ A empresa foi procurada por um cliente que deseja apresentar um jogo simulador p
 * AWS
 * Kubernetes
 * DATADOG
+
+Etapas:
+
+```
+Planejamento > Code > Construção > Teste > Lançamento > Implantação > Operação > Monitoração 
+```
