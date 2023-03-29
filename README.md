@@ -1,7 +1,6 @@
-![imagemn-escolhida-artigo-e1571255765939-1280x720](https://user-images.githubusercontent.com/128197149/228621642-3f3f0090-e304-4cd3-a567-cd9a6bc74f6b.jpg)
-
 # Silveira Soluções Continuas 
 
+!(![image](https://user-images.githubusercontent.com/125428490/228621929-6852d9c3-80d8-48df-8505-eae006d05e3b.png)) 
 
 > Sobre a empresa:
 
