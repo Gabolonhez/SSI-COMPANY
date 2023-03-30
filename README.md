@@ -23,7 +23,7 @@ npm install react
 
 ## Explicação do projeto de implementação do Devops
 
-A empresa foi procurada por um cliente que deseja apresentar um jogo simulador pela SSI para o sistema Android. A SSI visando estar engajada no mercado aceita o desafio para desenvolver este jogo.
+A Empresa foi procurada por um cliente que deseja apresentar um jogo simulador pela SSI para o sistema Android. A SSI visando estar engajada no mercado aceita o desafio para desenvolver este jogo.
 
 ## Tecnologias Utilizadas
 
