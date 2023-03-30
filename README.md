@@ -1,4 +1,5 @@
 # Silveira Soluções Continuas 
+	/codacy/coverage/:projectId/:branch
 
 ![image](https://user-images.githubusercontent.com/125428490/228621929-6852d9c3-80d8-48df-8505-eae006d05e3b.png)
 
