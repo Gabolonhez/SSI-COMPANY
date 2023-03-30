@@ -15,7 +15,7 @@ npm install react
 ```
 ## Índice
 
- * [Descrição](#Explicação do projeto de implementação do Devops)
+ * [Descrição](#Explicação do projeto de implementação do Devops:)
 * [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
 * [Funcionalidades](#Funcionalidades)
 * [Colaboradores](#Colaboradores)
