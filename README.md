@@ -22,7 +22,7 @@ npm install react
 * [Colaboradores](#Colaboradores)
 * [Licença](#Licença)
 
-## Explicação do projeto 
+## Explicação do projeto  
 
 A Empresa foi procurada por um cliente que deseja apresentar um jogo simulador 3D pela SSI para o sistema Android. A SSI visando estar engajada no mercado aceita o desafio para desenvolver este jogo, implementando o Devops para a realização do projeto.
 
