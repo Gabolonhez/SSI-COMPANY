@@ -42,3 +42,4 @@ Gabriel Bolonhez, Gustavo Fragata e Lucas da Silveira
 Docusaurus is [MIT licensed](./LICENSE).
 The Docusaurus documentation (e.g., `.md` files in the `/docs` folder)
 is [Creative Commons licensed](./LICENSE-docs).
+ 
