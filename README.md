@@ -44,4 +44,4 @@ Docusaurus is [MIT licensed](./LICENSE).
 The Docusaurus documentation (e.g., `.md` files in the `/docs` folder)
 is [Creative Commons licensed](./LICENSE-docs).
  
-![image](imagehttps://img.shields.io/github/status/s/pulls/Gabrieltr1/SSY-COMPANY/60?color=Black&logo=SSI&logoColor=green&style=social)
+
