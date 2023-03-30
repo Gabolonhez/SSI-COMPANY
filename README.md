@@ -6,13 +6,6 @@
 
 A empresa SSI (Silveira Soluções Continuas) é uma empresa voltada para a área de programação de jogos mobile principalmente para IOS. 
 
-> **Status do projeto: Em desenvolvimento** :hammer: 
-
-Para acompanhar o desenvolvimento do projeto, por favor digite no terminal: 
-
-```
-npm install react
-```
 ## Índice
 
 * [Explicação](#24)
@@ -20,6 +13,14 @@ npm install react
 * [Funcionalidades](#Funcionalidades)
 * [Colaboradores](#Colaboradores)
 * [Licença](#Licença)
+
+> **Status do projeto: Em desenvolvimento** :hammer: 
+
+Para acompanhar o desenvolvimento do projeto, por favor digite no terminal: 
+
+```
+npm install react
+```
 
 ## Explicação do projeto de implementação do Devops
 
