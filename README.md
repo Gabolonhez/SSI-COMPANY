@@ -37,13 +37,12 @@ A Empresa foi procurada por um cliente que deseja apresentar um jogo simulador 3
 * Kubernetes
 * DATADOG
 
-## Funcionalidades
-
 Etapas:
 
 ```
 Planejamento > Código > Construção > Teste > Lançamento > Implantação > Operação > Monitoração 
 ```
+## Funcionalidades
 
 ## Colaboradores:
 
