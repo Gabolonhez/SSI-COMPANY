@@ -6,7 +6,7 @@
 
 A empresa SSI (Silveira Soluções Continuas) é uma empresa voltada para a área de programação de jogos mobile principalmente para IOS. 
 
-> **Status do projeto: Em desenvolvimento** :hammer: :construction:
+> **Status do projeto: Em desenvolvimento** :hammer: 
 
 Para acompanhar o desenvolvimento do projeto, por favor digite no terminal: 
 
@@ -38,7 +38,7 @@ Planejamento > Código > Construção > Teste > Lançamento > Implantação > Op
 > Colaboradores
 Gabriel Bolonhez, Gustavo Fragata e Lucas da Silveira
 
-## License
+## License :construction:
 Docusaurus is [MIT licensed](./LICENSE).
 The Docusaurus documentation (e.g., `.md` files in the `/docs` folder)
 is [Creative Commons licensed](./LICENSE-docs).
