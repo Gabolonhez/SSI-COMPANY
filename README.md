@@ -13,6 +13,13 @@ Para acompanhar o desenvolvimento do projeto, por favor digite no terminal:
 ```
 npm install react
 ```
+## Índice
+
+ * [Descrição](#Explicação do projeto de implementação do Devops)
+* [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
+* [Funcionalidades](#Funcionalidades)
+* [Colaboradores](#Colaboradores)
+* [Licença](#Licença)
 
 > Explicação do projeto de implementação do Devops:
 
@@ -28,6 +35,8 @@ A empresa foi procurada por um cliente que deseja apresentar um jogo simulador p
 * AWS
 * Kubernetes
 * DATADOG
+
+## Funcionalidades
 
 Etapas:
 
