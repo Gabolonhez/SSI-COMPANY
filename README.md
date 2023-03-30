@@ -15,13 +15,13 @@ npm install react
 ```
 ## Índice
 
-* [Explicação](> Explicação do projeto de implementação do Devops:)
+* [Explicação](#Explicação do projeto de implementação do Devops)
 * [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
 * [Funcionalidades](#Funcionalidades)
-* [Colaboradores](> Colaboradores:)
+* [Colaboradores](#Colaboradores)
 * [Licença](#Licença)
 
-> Explicação do projeto de implementação do Devops:
+## Explicação do projeto de implementação do Devops
 
 A empresa foi procurada por um cliente que deseja apresentar um jogo simulador pela SSI para o sistema Android. A SSI visando estar engajada no mercado aceita o desafio para desenvolver este jogo.
 
@@ -44,7 +44,7 @@ Etapas:
 Planejamento > Código > Construção > Teste > Lançamento > Implantação > Operação > Monitoração 
 ```
 
-> Colaboradores:
+## Colaboradores:
 
 | [Gabriel Bolonhez Felipe](https://github.com/Gabrieltr1) | [Gustavo Fragata Rousseau](https://github.com/fr4agata) | [Lucas da Silveira](https://github.com/Lukinggg)
 | :---: | :---: | | :---: | 
