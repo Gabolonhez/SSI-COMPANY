@@ -36,9 +36,9 @@ Planejamento > Código > Construção > Teste > Lançamento > Implantação > Op
 ```
 
 > Colaboradores:
-> 
+
 | [Gabriel Bolonhez Felipe](https://github.com/Gabrieltr1) | [Gustavo Fragata Rousseau](https://github.com/fr4agata) | [Lucas da Silveira](https://github.com/Lukinggg)
-| :---: | :---: | 
+| :---: | :---: | | :---: | 
 
 ## License :construction:
 Docusaurus is [MIT licensed](./LICENSE).
