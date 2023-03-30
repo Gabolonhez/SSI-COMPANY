@@ -3,10 +3,6 @@
 
 ![image](https://user-images.githubusercontent.com/125428490/228621929-6852d9c3-80d8-48df-8505-eae006d05e3b.png)
 
-# Índice
-
-*[Sobre a empresa]
-
 > Sobre a empresa:
 
 A empresa SSI (Silveira Soluções Continuas) é uma empresa voltada para a área de programação de jogos mobile principalmente para IOS. 
