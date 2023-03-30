@@ -43,6 +43,14 @@ Etapas:
 Planejamento > Código > Construção > Teste > Lançamento > Implantação > Operação > Monitoração 
 ```
 ## Funcionalidades
+* `Microsoft Teams:`
+* `C#:`
+* `Unity:`
+* `xUnit:`
+* `Jenkins:`
+* `AWS:`
+* `Kubernetes:`
+* `DATADOG:`
 
 ## Colaboradores:
 
