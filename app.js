@@ -9,4 +9,4 @@ for(let i = 0 i < numeros.lenght; i++{}
 }else{ 
     console.log{numero{i} + " é um numero impar"}
  }
-}
+} 
