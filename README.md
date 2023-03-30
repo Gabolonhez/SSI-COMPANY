@@ -5,7 +5,7 @@
 
 # Índice
 
-*[Sobre a empreaa]
+*[Sobre a empresa]
 
 > Sobre a empresa:
 
