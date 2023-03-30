@@ -1,6 +1,5 @@
 # Silveira Soluções Continuas 
-![image](https://user-images.githubusercontent.com/125428490/228728729-18d89fba-74ac-49d9-9b43-9ab1561672b2.png) ![image](https://user-images.githubusercontent.com/125428490/228729157-213fe5fb-6a88-4b00-b7f7-3ef3a587237e.png)
-
+![image](https://user-images.githubusercontent.com/125428490/228728729-18d89fba-74ac-49d9-9b43-9ab1561672b2.png) ![image](https://user-images.githubusercontent.com/125428490/228729220-f74de798-79a3-42fe-8b4a-2089394dbf4b.png)
 ![image](https://user-images.githubusercontent.com/125428490/228621929-6852d9c3-80d8-48df-8505-eae006d05e3b.png) 
 
 > Sobre a empresa:
