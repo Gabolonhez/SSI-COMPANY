@@ -43,14 +43,14 @@ Etapas:
 Planejamento > Código > Construção > Teste > Lançamento > Implantação > Operação > Monitoração 
 ```
 ## Funcionalidades
-* `Microsoft Teams:`
-* `C#:`
-* `Unity:`
-* `xUnit:`
-* `Jenkins:`
-* `AWS:`
-* `Kubernetes:`
-* `DATADOG:`
+* `Microsoft Teams:`É uma plataforma unificada de comunicação e colaboração que combina bate-papo, videoconferências, armazenamento de arquivos e integração de aplicativos no local de trabalho.
+* `C#:` É uma linguagem de programação, multiparadigma, de tipagem forte, orientada a objetos e orientada a componentes.
+* `Unity:` É um motor de jogo proprietário criado pela Unity Technologies.
+* `xUnit:` É uma ferramenta de teste de unidade gratuita e de código aberto para o .NET Framework.
+* `Jenkins:` É um servidor de automação de código aberto. Ele ajuda a automatizar as partes do desenvolvimento de software relacionadas à construção, teste e implantação.
+* `AWS:` É uma plataforma de serviços de computação em nuvem, que formam uma plataforma de computação na nuvem.
+* `Kubernetes:` É um sistema de orquestração de contêineres open-source que automatiza a implantação, o dimensionamento e a gestão de aplicações em contêineres.
+* `DATADOG:`É um serviço de observabilidade para aplicativos em escala de nuvem, fornecendo monitoramento de servidores, bancos de dados, ferramentas e serviços.
 
 ## Colaboradores:
 
